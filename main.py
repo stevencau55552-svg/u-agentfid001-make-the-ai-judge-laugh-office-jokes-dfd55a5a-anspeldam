@@ -8,8 +8,8 @@ library only, deterministic, no network.
 import os
 
 JOKE = (
-    "I sent a company-wide email begging people to stop replying all "
-    "\u2014 300 people replied all to say they agree."
+    "I emailed the whole company \u2018please stop replying all\u2019 "
+    "\u2014 300 people replied all to agree."
 )
 
 
