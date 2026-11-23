@@ -9,7 +9,7 @@ import os
 
 JOKE = (
     "I emailed the whole company \u2018please stop replying all\u2019 "
-    "\u2014 300 people replied all to agree."
+    "\u2014 300 people replied all to agree, including HR."
 )
 
 
